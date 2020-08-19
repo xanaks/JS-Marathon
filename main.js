@@ -27,4 +27,4 @@ function getRow(firstRow, secondRow) {
   return compare;
 }
 
-alert(getRow(firstRow, secondRow));
+alert("В строке " + getRow(firstRow, secondRow) + " больше букв а(А)");
